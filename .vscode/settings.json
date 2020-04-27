@@ -1,0 +1,17 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/node_modules": true
+    },
+    "explorerExclude.backup": null,
+    "workbench.colorCustomizations": {
+        "[Cobalt2]": {
+            "titleBar.activeBackground": "#f289eb",
+            "titleBar.activeForeground": "#122738"
+        }
+    }
+}
